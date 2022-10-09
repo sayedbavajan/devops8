@@ -1,0 +1,10 @@
+vi README.md 
+touch developercode
+ vi developercode 
+git status
+git add .
+git status
+git commit -m "added data in readme file and create the new devcode"
+git log
+git push
+history
