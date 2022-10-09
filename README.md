@@ -1,2 +1,11 @@
-# devops8
-learning devops cloud and devops tools
+ devops8
+ sjhjhskh
+ ssjcjas
+ aslchajbsca
+ sclakscjba
+ scalhscas
+ calhsca
+ scahbsca
+ s;calshca
+ sca;sjcas
+ ;
